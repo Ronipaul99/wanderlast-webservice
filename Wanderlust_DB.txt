@@ -1,4 +1,7 @@
-
+{
+    password: '83ir3LoHs8ONdDsZ',
+    user: 'use123'
+}
 
 db.Users.insert(
 [

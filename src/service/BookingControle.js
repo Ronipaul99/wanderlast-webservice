@@ -97,9 +97,6 @@ bookingService.getBookingByUser = (userId) => {
     })
 }
 
-bookingService.getBookingByUserAndDestination("U1001","B1001").then((data)=>{
-    console.log(data);
-    
-})
+
 
 module.exports=bookingService;

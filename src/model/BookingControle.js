@@ -81,8 +81,3 @@ bookingDB.getBookigById = (bookingId) => {
 
 module.exports=bookingDB;
 
-
-bookingDB.cancelBooking("U1001","D1001").then((data)=>{
-    console.log(data);
-    
-})
