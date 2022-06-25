@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "mocha test --reporter mocha-spec-json-output-reporter --reporter-options fileName=result.json --timeout 4000 --exit",
+    "start": "cd src"
   },
   "dependencies": {
     "cors": "^2.8.4",
