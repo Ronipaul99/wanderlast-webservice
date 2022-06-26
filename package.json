@@ -1,16 +1,30 @@
 {
-  "name": "wanderlust-web-service",
-  "version": "0.0.0",
-  "private": true,
+  "name": "tripify-webservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha test --reporter mocha-spec-json-output-reporter --reporter-options fileName=result.json --timeout 4000 --exit",
-    "start": "cd src"
+    "start": "node app.js",
+    "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronipaul99/tripify-webservice.git"
+  },
+  "author": "ronipaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronipaul99/tripify-webservice/issues"
+  },
+  "homepage": "https://github.com/Ronipaul99/tripify-webservice#readme",
   "dependencies": {
-    "cors": "^2.8.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "mongoose": "^5.4.17",
-    "body-parser": "^1.18.3"
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }

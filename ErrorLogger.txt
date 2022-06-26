@@ -1,0 +1,18 @@
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Error: No bookings Found
+    at D:\git\tripify-webservice\src\service\userslogin.js:63:20
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
